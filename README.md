@@ -9,10 +9,10 @@
 
 ---
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sgtredbeard)
-
 <!--
 **ryan-atkins/ryan-atkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/sgtredbeard)
 
 Here are some ideas to get you started:
 
