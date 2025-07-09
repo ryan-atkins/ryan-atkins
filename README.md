@@ -1,11 +1,8 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning ...
-  - rust
-  - golang
-
-- 📫 How to reach me: ...
-  - https://www.linkedin.com/in/ryanatkinsdev
+👋 Hello, I'm Ryan.  
+👀 I'm interested in all things kubernetes.  
+💻 My current favorite OSS project is [k9s](https://github.com/derailed/k9s).  
+🌱 I’m currently learning the rust programming language 🦀 and playing around building [TUIs](https://github.com/rothgar/awesome-tuis).  
+📫 Reach me at: ryan.david.atkins@gmail.com  
 
 ---
 
